@@ -24,3 +24,4 @@ class programmer extends employee{
 //to call static function we need to write syntax like
 let c =programmer.multiply(2,3);
 console.log(c);
+
